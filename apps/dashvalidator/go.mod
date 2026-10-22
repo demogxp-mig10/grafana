@@ -10,7 +10,7 @@ require (
 	github.com/grafana/grafana/pkg/apimachinery v0.0.0
 	github.com/prometheus/prometheus v0.313.0
 	github.com/stretchr/testify v1.12.1
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.24.0
 	k8s.io/apimachinery v0.36.4
 	k8s.io/kube-openapi v0.0.0-20260721132016-d427ff9ee9ad
 )
